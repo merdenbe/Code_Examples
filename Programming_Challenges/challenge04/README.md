@@ -1,4 +1,2 @@
-Challenge 04
-============
-
-https://www3.nd.edu/~pbui/teaching/cse.30872.fa18/challenge04.html
+Checks two array of heights if every person in the second array can be matched with someone shorter 
+than them.

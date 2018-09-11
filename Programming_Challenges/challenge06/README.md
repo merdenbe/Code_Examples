@@ -1,4 +1,1 @@
-Challenge 06
-============
-
-https://www3.nd.edu/~pbui/teaching/cse.30872.fa18/challenge06.html
+Given sequences of fruits, find the largest sequence of distinct fruits within the line. 

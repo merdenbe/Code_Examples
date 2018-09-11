@@ -1,4 +1,2 @@
-Challenge 00
-============
-
-https://www3.nd.edu/~pbui/teaching/cse.30872.fa18/challenge00.html
+Finds the last tidy number in a range, where a tidy number is one where the digits 
+are in non-decreasing order.
