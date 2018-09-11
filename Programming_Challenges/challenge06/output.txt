@@ -1,0 +1,9 @@
+1: pineapple
+2: orange, grape
+3: grape, coconut, pear
+2: peach, pineapple
+5: grape, apple, banana, peach, pineapple
+3: tangerine, banana, peach
+4: apple, grape, tangerine, coconut
+7: apple, grape, banana, tangerine, pineapple, pear, orange
+4: coconut, apple, pineapple, banana
